@@ -1,0 +1,25 @@
+{
+  "name": "tesla-roadster-presale",
+  "version": "1.0.0",
+  "description": "Simulated Tesla Roadster Pre-Sale Platform with Customer & Admin Dashboards",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -n \"BACKEND,FRONTEND\" -c \"blue,red\" \"npm run dev --prefix backend\" \"npm run dev --prefix frontend\"",
+    "dev:backend": "npm run dev --prefix backend",
+    "dev:frontend": "npm run dev --prefix frontend",
+    "seed": "npm run seed --prefix backend",
+    "build": "npm run build --prefix frontend"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.3.1",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.9.5",
+    "nodemailer": "^10.2.1"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
