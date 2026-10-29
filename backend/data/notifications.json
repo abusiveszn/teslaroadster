@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "notif_002",
+    "userId": "usr_customer_001",
+    "type": "system",
+    "subject": "Welcome to the Roadster Pre-Sale Demo",
+    "message": "Explore your pre-order status, download simulated receipts, or configure additional options.",
+    "readAt": null,
+    "createdAt": "2026-10-25T14:33:00Z",
+    "updatedAt": "2026-10-28T23:12:25.754Z"
+  },
+  {
+    "_id": "notif_001",
+    "userId": "usr_customer_001",
+    "type": "payment_success",
+    "subject": "Payment Confirmed (#TRD-20261025-001)",
+    "message": "Your simulated pre-sale order for the Tesla Roadster has been recorded. Amount: $80,000.",
+    "readAt": null,
+    "createdAt": "2026-10-25T14:32:00Z",
+    "updatedAt": "2026-10-28T23:12:25.589Z"
+  },
+  {
+    "_id": "notif_002",
+    "userId": "usr_customer_001",
+    "type": "system",
+    "subject": "Welcome to the Roadster Pre-Sale Demo",
+    "message": "Explore your pre-order status, download simulated receipts, or configure additional options.",
+    "readAt": null,
+    "createdAt": "2026-10-25T14:33:00Z",
+    "updatedAt": "2026-10-28T23:04:18.499Z"
+  },
+  {
+    "_id": "notif_001",
+    "userId": "usr_customer_001",
+    "type": "payment_success",
+    "subject": "Payment Confirmed (#TRD-20261025-001)",
+    "message": "Your simulated pre-sale order for the Tesla Roadster has been recorded. Amount: $80,000.",
+    "readAt": null,
+    "createdAt": "2026-10-25T14:32:00Z",
+    "updatedAt": "2026-10-28T23:04:18.309Z"
+  },
+  {
+    "_id": "doc_e8304a3227408229712e73aa",
+    "userId": "usr_guest_1793193245351",
+    "type": "payment_success",
+    "subject": "Payment Confirmed (#TRD-20261028-643)",
+    "message": "Your simulated pre-sale order for Tesla Roadster has been confirmed. Total Paid: $200,000.",
+    "readAt": null,
+    "createdAt": "2026-10-28T13:14:11.702Z",
+    "updatedAt": "2026-10-28T13:14:11.748Z"
+  },
+  {
+    "_id": "doc_87f311e31aec5567caf068a3",
+    "userId": "usr_guest_1793017617230",
+    "type": "payment_success",
+    "subject": "Payment Confirmed (#TRD-20261026-772)",
+    "message": "Your simulated pre-sale order for Tesla Roadster has been confirmed. Total Paid: $80,000.",
+    "readAt": null,
+    "createdAt": "2026-10-26T12:26:57.279Z",
+    "updatedAt": "2026-10-26T12:26:57.347Z"
+  },
+  {
+    "_id": "notif_002",
+    "userId": "usr_customer_001",
+    "type": "system",
+    "subject": "Welcome to the Roadster Pre-Sale Demo",
+    "message": "Explore your pre-order status, download simulated receipts, or configure additional options.",
+    "readAt": null,
+    "createdAt": "2026-10-25T14:33:00Z",
+    "updatedAt": "2026-10-26T12:12:15.024Z"
+  },
+  {
+    "_id": "notif_001",
+    "userId": "usr_customer_001",
+    "type": "payment_success",
+    "subject": "Payment Confirmed (#TRD-20261025-001)",
+    "message": "Your simulated pre-sale order for the Tesla Roadster has been recorded. Amount: $80,000.",
+    "readAt": null,
+    "createdAt": "2026-10-25T14:32:00Z",
+    "updatedAt": "2026-10-26T12:12:15.022Z"
+  }
+]

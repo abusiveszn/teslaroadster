@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "cpn_vip20",
+    "code": "VIP20",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "applicableVehicleIds": [
+      "veh_roadster_standard"
+    ],
+    "startsAt": "2026-01-01T00:00:00Z",
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "maxUses": 1000,
+    "usageCount": 12,
+    "isActive": true,
+    "isDemoOnly": true,
+    "description": "20% VIP Concept Pre-Order Discount",
+    "createdAt": "2026-10-28T23:12:24.629Z",
+    "updatedAt": "2026-10-28T23:12:24.629Z"
+  },
+  {
+    "_id": "cpn_roadster60",
+    "code": "ROADSTER60",
+    "discountType": "percentage",
+    "discountValue": 60,
+    "applicableVehicleIds": [
+      "veh_roadster_standard"
+    ],
+    "startsAt": "2026-01-01T00:00:00Z",
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "maxUses": 5000,
+    "usageCount": 48,
+    "isActive": true,
+    "isDemoOnly": true,
+    "description": "Exclusive 60% Demonstration Discount for simulated checkout",
+    "createdAt": "2026-10-28T23:12:24.470Z",
+    "updatedAt": "2026-10-28T23:12:24.470Z"
+  },
+  {
+    "_id": "cpn_roadmonster",
+    "code": "ROADMONSTER",
+    "discountType": "percentage",
+    "discountValue": 60,
+    "applicableVehicleIds": [
+      "veh_roadster_standard"
+    ],
+    "startsAt": "2026-01-01T00:00:00Z",
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "maxUses": 5000,
+    "usageCount": 0,
+    "isActive": true,
+    "isDemoOnly": true,
+    "description": "Exclusive 60% ROADMONSTER Special Reservation Discount",
+    "createdAt": "2026-10-28T23:12:24.260Z",
+    "updatedAt": "2026-10-28T23:12:24.260Z"
+  },
+  {
+    "_id": "cpn_vip20",
+    "code": "VIP20",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "applicableVehicleIds": [
+      "veh_roadster_standard"
+    ],
+    "startsAt": "2026-01-01T00:00:00Z",
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "maxUses": 1000,
+    "usageCount": 12,
+    "isActive": true,
+    "isDemoOnly": true,
+    "description": "20% VIP Concept Pre-Order Discount",
+    "createdAt": "2026-10-28T23:04:17.217Z",
+    "updatedAt": "2026-10-28T23:04:17.217Z"
+  },
+  {
+    "_id": "cpn_roadster60",
+    "code": "ROADSTER60",
+    "discountType": "percentage",
+    "discountValue": 60,
+    "applicableVehicleIds": [
+      "veh_roadster_standard"
+    ],
+    "startsAt": "2026-01-01T00:00:00Z",
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "maxUses": 5000,
+    "usageCount": 48,
+    "isActive": true,
+    "isDemoOnly": true,
+    "description": "Exclusive 60% Demonstration Discount for simulated checkout",
+    "createdAt": "2026-10-28T23:04:17.038Z",
+    "updatedAt": "2026-10-28T23:04:17.038Z"
+  },
+  {
+    "_id": "cpn_roadmonster",
+    "code": "ROADMONSTER",
+    "discountType": "percentage",
+    "discountValue": 60,
+    "applicableVehicleIds": [
+      "veh_roadster_standard"
+    ],
+    "startsAt": "2026-01-01T00:00:00Z",
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "maxUses": 5000,
+    "usageCount": 0,
+    "isActive": true,
+    "isDemoOnly": true,
+    "description": "Exclusive 60% ROADMONSTER Special Reservation Discount",
+    "createdAt": "2026-10-28T23:04:16.850Z",
+    "updatedAt": "2026-10-28T23:04:16.850Z"
+  },
+  {
+    "_id": "cpn_roadmonster",
+    "code": "ROADMONSTER",
+    "discountType": "percentage",
+    "discountValue": 60,
+    "applicableVehicleIds": [
+      "veh_roadster_standard"
+    ],
+    "startsAt": "2026-01-01T00:00:00Z",
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "maxUses": 5000,
+    "usageCount": 0,
+    "isActive": true,
+    "isDemoOnly": true,
+    "description": "Exclusive 60% ROADMONSTER Special Reservation Discount",
+    "createdAt": "2026-10-28T00:00:00.000Z",
+    "updatedAt": "2026-10-28T00:00:00.000Z"
+  },
+  {
+    "_id": "cpn_roadster60",
+    "code": "ROADSTER60",
+    "discountType": "percentage",
+    "discountValue": 60,
+    "applicableVehicleIds": [
+      "veh_roadster_standard"
+    ],
+    "startsAt": "2026-01-01T00:00:00Z",
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "maxUses": 5000,
+    "usageCount": 49,
+    "isActive": true,
+    "isDemoOnly": true,
+    "description": "Exclusive 60% Demonstration Discount for simulated checkout",
+    "createdAt": "2026-10-26T12:12:15.011Z",
+    "updatedAt": "2026-10-26T12:26:57.286Z"
+  },
+  {
+    "_id": "cpn_vip20",
+    "code": "VIP20",
+    "discountType": "percentage",
+    "discountValue": 20,
+    "applicableVehicleIds": [
+      "veh_roadster_standard"
+    ],
+    "startsAt": "2026-01-01T00:00:00Z",
+    "expiresAt": "2026-12-31T23:59:59Z",
+    "maxUses": 1000,
+    "usageCount": 12,
+    "isActive": true,
+    "isDemoOnly": true,
+    "description": "20% VIP Concept Pre-Order Discount",
+    "createdAt": "2026-10-26T12:12:15.013Z",
+    "updatedAt": "2026-10-26T12:12:15.013Z"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "_id": "usr_customer_001",
+    "fullName": "John Doe",
+    "email": "john.doe@example.com",
+    "passwordHash": "$2b$10$yQvH8stJWuasMv1JQ3/XHeAbLWDoc9iZwGOa2aNdz0XPNJd4rhOOG",
+    "role": "customer",
+    "emailVerified": true,
+    "createdAt": "2026-10-20T10:00:00Z",
+    "updatedAt": "2026-10-28T23:12:23.636Z"
+  },
+  {
+    "_id": "usr_admin_001",
+    "fullName": "Tesla Operations Admin",
+    "email": "teslasupporttech@gmail.com",
+    "passwordHash": "$2b$10$0EC/0Dnq2KKITjx7tLhcnu5d4qoYbd54ZUZw.F/rfCqhl62wG3m4e",
+    "role": "admin",
+    "emailVerified": true,
+    "createdAt": "2026-10-28T23:12:23.224Z",
+    "updatedAt": "2026-10-28T23:12:23.228Z"
+  },
+  {
+    "_id": "usr_customer_001",
+    "fullName": "John Doe",
+    "email": "john.doe@example.com",
+    "passwordHash": "$2b$10$RpcHG7MibGwomaYYo3zfxOHjFHMcnKX/XMuoAilSwhIHdqlnf3Yom",
+    "role": "customer",
+    "emailVerified": true,
+    "createdAt": "2026-10-20T10:00:00Z",
+    "updatedAt": "2026-10-28T23:04:16.187Z"
+  },
+  {
+    "_id": "usr_admin_001",
+    "fullName": "Tesla Operations Admin",
+    "email": "teslasupporttech@gmail.com",
+    "passwordHash": "$2b$10$YdbL.4CGRaed7o2UWdnXo.8CTSkMkPMLZsnvn5.s7Dv5cey2dJU5y",
+    "role": "admin",
+    "emailVerified": true,
+    "createdAt": "2026-10-28T23:04:15.796Z",
+    "updatedAt": "2026-10-28T23:04:15.797Z"
+  },
+  {
+    "_id": "doc_408a409c3f46c26fd2f7e77f",
+    "fullName": "Yunusa lukman",
+    "email": "sznxdesign3055@gmail.com",
+    "passwordHash": "$2b$10$T0i4RT19t9mzOfY3NRhkEe/7ps0XFTWRNqlJuSzFzxvGcmcOTafae",
+    "role": "customer",
+    "emailVerified": true,
+    "createdAt": "2026-10-28T12:43:13.549Z",
+    "updatedAt": "2026-10-28T12:43:13.549Z"
+  },
+  {
+    "_id": "doc_fdf7f5c49c3f77b21a83a565",
+    "fullName": "Lukman Yunus",
+    "email": "sznxdesigner3@gmail.com",
+    "passwordHash": "$2b$10$AaW2RmRCs6KFI2OzEBzMJedde3ZWnFU.hh1/AkhNmkQ4iQ8gbBZ.C",
+    "role": "customer",
+    "emailVerified": true,
+    "createdAt": "2026-10-28T12:26:41.647Z",
+    "updatedAt": "2026-10-28T12:26:41.647Z"
+  },
+  {
+    "_id": "usr_customer_001",
+    "fullName": "John Doe",
+    "email": "john.doe@example.com",
+    "passwordHash": "$2b$10$8b9Fe7TylJ/dCfYjguD7lOP.7U2bLwc2idMHL.V1h9D0.dZ3Da0Ue",
+    "role": "customer",
+    "emailVerified": true,
+    "createdAt": "2026-10-20T10:00:00Z",
+    "updatedAt": "2026-10-26T12:12:15.008Z"
+  },
+  {
+    "_id": "usr_admin_001",
+    "fullName": "Tesla Operations Admin",
+    "email": "teslasupporttech@gmail.com",
+    "passwordHash": "$2b$10$cScW9YBZ420iBpwBLYJFNOr.r78gUf2xVX1TFVGH/0jGgcuyxWSR.",
+    "role": "admin",
+    "emailVerified": true,
+    "createdAt": "2026-10-26T12:12:15.002Z",
+    "updatedAt": "2026-10-28T14:30:00.000Z"
+  }
+]
